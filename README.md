@@ -50,8 +50,6 @@ This backend handles authentication, authorization, file storage, and role enfor
 
 ---
 
-## 📁 Folder Structure
-
 # 🔐 Role-Based File Upload Backend (RBAC)
 
 A secure REST API implementing **Role-Based Access Control (RBAC)** for file upload and access management using **Node.js, Express, MongoDB, and TypeScript**.
