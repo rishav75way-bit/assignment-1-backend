@@ -102,35 +102,6 @@ This backend handles authentication, authorization, file storage, and role enfor
 - Cookie-parser
 - CORS
 
----
-
-## 📁 Folder Structure
-
-src/
-├─ modules/
-│ ├─ auth/
-│ │ ├─ auth.controller.ts
-│ │ ├─ auth.service.ts
-│ │ ├─ auth.routes.ts
-│ │ ├─ auth.schemas.ts
-│ │ └─ auth.types.ts
-│ ├─ files/
-│ │ ├─ file.controller.ts
-│ │ ├─ file.service.ts
-│ │ ├─ file.routes.ts
-│ │ ├─ file.schemas.ts
-│ │ └─ file.model.ts
-├─ middlewares/
-│ ├─ auth.middleware.ts
-│ ├─ validate.middleware.ts
-│ └─ error.middleware.ts
-├─ utils/
-├─ config/
-│ └─ db.ts
-├─ server.ts
-
-
----
 
 ## 🔑 Environment Variables
 
